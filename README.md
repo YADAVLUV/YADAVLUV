@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, I'm Love Yadav
 💫 About Me:<br>🔭 I’m currently working on: A real-time multiplayer chess game using Node.js, Express, EJS, and Socket.IO.<br><br>👯 I’m looking to collaborate on: Projects involving real-time device tracking or real-time web applications.<br><br>🤝 I’m looking for help with: Improving my skills in advanced Node.js and exploring new frameworks and technologies.<br><br>🌱 I’m currently learning: Advanced data structures and algorithms, and diving deeper into the internals of computer networks.<br><br>💬 Ask me about: Development with C++, Node.js, Express.js, and real-time web applications.<br><br>⚡ Fun fact: I love playing chess and often participate in online chess tournaments.
 
 
